@@ -36,7 +36,7 @@
 		<finalName>Spring Examples</finalName>
 		<resources>
 			<resource>
-				<directory>src/test/java</directory>
+				<directory>src/test</directory>
 			</resource>
 			
 		</resources>
